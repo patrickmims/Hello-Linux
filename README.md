@@ -1,2 +1,2 @@
-# hello-linux
+# Hello Linux
 Linux Programming Techniques
